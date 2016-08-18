@@ -1,0 +1,17 @@
+{
+    "name": "asar-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sorkin Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/asar-bower.git"
+    },
+    "description": "Asar font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
